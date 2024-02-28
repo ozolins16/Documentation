@@ -3,7 +3,7 @@ title: Architecture
 sidebar_position: 2
 ---
 
-## Overall architecture
+# Overall architecture
 
 ZoomCharts has been built with the idea of visualizing large amounts of data. To do so the internal architecture consists of two layers:
 

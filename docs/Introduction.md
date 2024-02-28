@@ -1,9 +1,6 @@
 ---
----
-
 title: Introduction
 sidebar_position: 1
-
 ---
 
 # Introduction to BoomCharts
@@ -38,4 +35,4 @@ You must use a license key with the software to be compliant with EULA. You can 
 
 We provide 24/7 online support - please visit [BoomCharts website](http://localhost:3000/docs/introduction) to start a chat. Alternatively, you can send your question to support@boomcahrts.com. We also provide ESLA with tailored support conditions. To learn more about that, please request a quote.
 
----
+
