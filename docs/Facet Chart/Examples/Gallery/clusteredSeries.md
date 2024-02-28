@@ -6,7 +6,7 @@ sidebar_position: 2
 # Facet Chart - clustered series, one level
 
 Passenger cars in use totals, year 2012
-<!-- image -->
+<!-- Image ToDo-->
  ```js
         function success(data) {
             t = new FacetChart(

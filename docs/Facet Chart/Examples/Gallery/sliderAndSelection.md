@@ -5,7 +5,7 @@ sidebar_position: 7
 
 # Facet chart - WiFi like visualization
 Example on how to dynamically change style for individual chart columns.
- <!-- image -->
+<!-- Image ToDo-->
 ```js
     //define values so that chart would look like WiFi visualization:
     var data = {

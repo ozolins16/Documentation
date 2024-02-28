@@ -6,7 +6,7 @@ sidebar_position: 1
 # Facet chart - browser shares, hierarchical structure
 
 Browser shares (sample data). Click to explore
-<!-- Image -->
+<!-- Image ToDo-->
 
  ```js
         pc = new FacetChart({

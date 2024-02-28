@@ -6,7 +6,7 @@ sidebar_position: 5
 # Facet Chart - stacked area fill, markers, custom line colors, custom line width, smoothing, one level
 
 Passenger cars in use totals, year 2012
- <!-- Image -->
+<!-- Image ToDo-->
 
  ```js
     function success(data){

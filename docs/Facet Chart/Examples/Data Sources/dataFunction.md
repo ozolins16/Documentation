@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Data function.
 
- <!-- Image -->
+<!-- Image ToDo-->
  ```js
         var f = new FacetChart({
             container: document.getElementById("demo"),
