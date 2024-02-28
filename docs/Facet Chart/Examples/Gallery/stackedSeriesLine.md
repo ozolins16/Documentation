@@ -1,6 +1,6 @@
 ---
 title: Facet Chart Stacked Series Line Passenger Cars In Use
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Facet Chart - stacked area fill, markers, custom line colors, custom line width, smoothing, one level

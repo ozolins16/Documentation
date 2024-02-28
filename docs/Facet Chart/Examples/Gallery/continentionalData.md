@@ -1,6 +1,6 @@
 ---
 title: Facet Chart Continental Data And Breadcrumb Feature
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Facet chart - continental data + breadcrumb feature
