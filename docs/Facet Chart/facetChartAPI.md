@@ -6,7 +6,7 @@ sidebar_position: 3
 # FacetChart API
 
 ## Inheritance hierarchy
-This type inherits from [BaseApi](google.com).
+This type inherits from [BaseApi](https://google.com).
 
 ### Constructors
  - **.ctor**: (settings: [FacetChartSettings](google.com))
